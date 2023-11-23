@@ -43,8 +43,12 @@ bin/console make:user:msgphp
 
 # Contributing
 
-This repository is **READ ONLY**. Issues and pull requests should be submitted in the
-[main development repository](https://github.com/msgphp/msgphp).
+This repository is **READ ONLY**. ~~Issues and pull requests should be submitted in the
+[main development repository](https://github.com/msgphp/msgphp).~~
+
+For some reasons original msgphp/* repositories was was marked as archived by an administrator on Jun 29, 2023. It is no longer maintained.
+Since we are using this bundles in production - we created mirror [msgphp2/*](https://github.com/msgphp2) 
+Feel free to use and contibute!
 
 [packagist]: https://packagist.org/packages/msgphp/user-bundle
 [packagist:img]: https://img.shields.io/packagist/v/msgphp/user-bundle.svg?style=flat-square
